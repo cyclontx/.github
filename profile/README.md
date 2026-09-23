@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/cyclon-logo-dark.png" alt="Cyclon Therapeutics" width="860">
+</p>
+
 # Cyclon Therapeutics
 
 **AI-driven design of cyclic peptide therapeutics.**
